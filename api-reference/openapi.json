@@ -1840,6 +1840,10 @@
           "returnSrtFormat": {
             "type": "boolean",
             "default": false
+          },
+          "denoise": {
+            "type": "boolean",
+            "default": false
           }
         },
         "required": [
