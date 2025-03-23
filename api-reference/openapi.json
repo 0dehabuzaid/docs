@@ -1844,10 +1844,6 @@
             "type": "boolean",
             "default": false
           },
-          "denoise": {
-            "type": "boolean",
-            "default": false
-          },
           "srtOptions": {
             "type": "object",
             "description": "You can override srtOptions default values and send the object only if returnSrtFormat is false.",
